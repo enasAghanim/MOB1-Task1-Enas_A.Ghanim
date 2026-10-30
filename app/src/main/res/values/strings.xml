@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Homework1</string>
+
+    <string name="enas_1">from enas</string>
+    <string name="hap_enas">Happy Birthday Enas!</string>
+
+    <string name="task_p1">All Tasks Compleate</string>
+    <string name="task_p2">Nice Work !</string>
+
+    <string name="quad_p1">Text composable \n Displays text follows recommended Design .</string>
+    <string name="quad_p2">Image composable\n Creates composable that lays out and draws a given Painter class object.</string>
+    <string name="quad_p3">Row composable\n A layout composable that children horizontal sequence.</string>
+    <string name="quad_p4">Column composable\n A layout composable that children in a vertical sequence.</string>
+
+    <string name="article_p1">Jetpack Compose tutorial</string>
+    <string name="article_p2">Jetpack Compose is a modern toolkit for building native Android UI.
+        Compose simplifies and accelerates UI development on Android with less code, powerful tools,
+        and intuitive Kotlin APIs.\n In this tutorial, you build a simple UI component with declarative functions.
+        You call Compose functions to say what elements you want and the Compose compiler does the rest.
+        Compose is built around Composable functions. These functions let you define your apps UI programmatically
+        because they let you describe how it should look and provide data dependencies,
+        rather than focus on the process of the Uls construction, such as initializing an element and then
+        attaching it to a parent. To create a Composable function, you add the Composable annotation to the function name.</string>
+
+    <string name="bus_p1">Enas A.Ghanim</string>
+    <string name="bus_p2">Expert Android Developer</string>
+    <string name="bus_p3">+972_567_751_263</string>
+    <string name="bus_p4">\@enasahmed123</string>
+    <string name="bus_p5">enas.ahmed@email.com</string>
+
+</resources>
